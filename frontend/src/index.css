@@ -102,11 +102,9 @@ h1, h2, h3, h4 { font-family: var(--font-display); font-weight: 700; line-height
 }
 
 .glass-card {
-  background: var(--gradient-card);
+  background: #ffffff;
   border: 1px solid var(--clr-border);
   border-radius: var(--radius-lg);
-  backdrop-filter: blur(20px);
-  -webkit-backdrop-filter: blur(20px);
   box-shadow: var(--shadow-card);
   transition: transform var(--transition-normal), box-shadow var(--transition-normal);
 }
@@ -167,7 +165,7 @@ h1, h2, h3, h4 { font-family: var(--font-display); font-weight: 700; line-height
 .input-field {
   width: 100%;
   padding: 13px 18px;
-  background: rgba(0,0,0,0.02);
+  background: #f1f5f9;
   border: 1px solid var(--clr-border);
   border-radius: var(--radius-md);
   color: var(--clr-text-primary);

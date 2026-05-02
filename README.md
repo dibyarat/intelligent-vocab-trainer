@@ -2,7 +2,8 @@
 
 A full-stack web application designed to help users build and retain their vocabulary using active recall and the SuperMemo-2 (SM-2) spaced repetition algorithm.
 
-![App Screenshot](https://raw.githubusercontent.com/framer/framer-motion/main/public/twitter-card.png) *(Add your own screenshot here!)*
+![App Dashboard](https://drive.google.com/file/d/18d0zR_fOc32EkKA7dyHttbnbQ_CEdMoK/view?usp=drive_link)
+
 
 ## ✨ Features
 - **Spaced Repetition System (SRS):** Smart flashcards that schedule review dates based on mastery levels.
@@ -55,3 +56,6 @@ gcloud run deploy vocab-frontend --source ./frontend --allow-unauthenticated
 
 ## 📄 License
 MIT License
+
+
+[def]: https://drive.google.com/file/d/18d0zR_fOc32EkKA7dyHttbnbQ_CEdMoK/view?usp=drive_link
